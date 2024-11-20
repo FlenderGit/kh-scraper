@@ -1,0 +1,6 @@
+# Tout ignorer sauf le build et quelques fichiers importants
+*
+!dist
+!README.md
+!LICENSE
+!package.json
